@@ -2,6 +2,9 @@
 
 This project focuses on classifying traffic signs using a dataset that contains various types of traffic signs. The project employs data processing, visualization, and CNN - deep learning  to build a classification model.
 
+### Dataset source: 
+https://huggingface.co/datasets/haddany/Traffic_sign_classification
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
