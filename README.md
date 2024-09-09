@@ -34,7 +34,6 @@ The workflow of this project includes the following steps:
 
 2. **Data Preprocessing**:
    - Normalize the images to ensure that all pixel values are scaled to the same range, which improves the model's performance.
-   - Apply data augmentation techniques such as rotation, flipping, and zooming to increase the diversity of the training data and reduce overfitting.
    - Split the dataset into training and testing sets to evaluate the model's performance on unseen data.
 
 3. **Model Training**:
